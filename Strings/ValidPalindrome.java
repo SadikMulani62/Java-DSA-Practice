@@ -1,4 +1,4 @@
-package strings;
+package Strings;
 
 /**
  * Problem: Valid Palindrome (LeetCode #125)
